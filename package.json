@@ -1,16 +1,16 @@
 {
-  "name": "bitandbang",
-  "version": "2.1.1",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "mauromarchesan",
+  "version": "2.1.3",
+  "description": "A personal card for Mauro Marchesan (mauromarchesan)",
   "main": "/bin/card.js",
   "bin": {
-    "bitandbang": "./bin/card.js"
+    "mauromarchesan": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bnb/bitandbang.git"
+    "url": "git+https://github.com/mauromarchesan88/bitandbang.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://portfolio-mauro.netlify.app/",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -25,7 +25,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Mauro Marchesan",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -37,7 +37,9 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
+    "url": "https://github.com/mauromarchesan88/bitandbang/issues"
   },
-  "dependencies": {}
+  "dependencies": {
+    "mauromarchesan": "^2.1.3"
+  }
 }
