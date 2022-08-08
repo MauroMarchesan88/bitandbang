@@ -1,6 +1,6 @@
 {
   "name": "mauromarchesan",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "description": "A personal card for Mauro Marchesan (mauromarchesan)",
   "main": "/bin/card.js",
   "bin": {
@@ -40,6 +40,6 @@
     "url": "https://github.com/mauromarchesan88/bitandbang/issues"
   },
   "dependencies": {
-    "mauromarchesan": "^2.1.3"
+    "mauromarchesan": "^2.1.4"
   }
 }
